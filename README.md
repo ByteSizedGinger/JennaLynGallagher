@@ -4,6 +4,8 @@ Linkedin: www.linkedin.com/in/jenna-gallagher-a79149204
 
 Work Experience: Internship at Propella
 
+Coding Languages: Java,C++,PHP,Python
+
 Interests: Hiking, F1
 
 
