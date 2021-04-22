@@ -1,5 +1,12 @@
 ### Third Year Computer Science student at the University of Pretoria/Universiteit van Pretoria
 
+Linkedin: www.linkedin.com/in/jenna-gallagher-a79149204
+
+Work Experience: Internship at Propella
+
+Interests: Hiking, F1
+
+
 <!--
 **JennaLynGallagher/JennaLynGallagher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
