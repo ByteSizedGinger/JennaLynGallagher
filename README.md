@@ -1,4 +1,4 @@
-### Hi there 👋
+### Third Year Computer Science student at the University of Pretoria/Universiteit van Pretoria
 
 <!--
 **JennaLynGallagher/JennaLynGallagher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
