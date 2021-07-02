@@ -5,7 +5,7 @@
 - ✨ Favourite Language: Java
 - ⚡ Languages: Java, C++, Python, PHP, Javascript, Typescript, CSS, HTML
 
-* :mortar_board: <a href="www.linkedin.com/in/jenna-gallagher-a79149204"> LinkedIn  Account </a>
+* :mortar_board: <a href="www.linkedin.com/in/jenna-lyn-gallagher"> LinkedIn  Account </a>
 
 Work Experience: Internship at Propella
 
