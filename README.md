@@ -5,7 +5,7 @@
 - ✨ Favourite Language: Java
 - ⚡ Languages: Java, C++, Python, PHP, Javascript, Typescript, CSS, HTML
 
-[Linkedin](www.linkedin.com/in/jenna-gallagher-a79149204)
+[Linkedin](www.linkedin.com/in/jenna-lyn-gallagher)
 
 Work Experience: Internship at Propella
 
